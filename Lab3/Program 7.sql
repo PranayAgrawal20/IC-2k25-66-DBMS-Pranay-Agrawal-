@@ -1,0 +1,1 @@
+SELECT last_name FROM employees WHERE CHAR_LENGTH(last_name) = 6;
